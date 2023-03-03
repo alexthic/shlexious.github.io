@@ -4,7 +4,7 @@ description: The official Dinis.
 layout: ../layouts/MainLayout.astro
 ---
 
-[![image](https://user-images.githubusercontent.com/77512805/209696209-dc87560f-8e55-407e-a5df-31ec31381c51.png)](https://discord.gg/sirius)
+[![image](![image](https://user-images.githubusercontent.com/122695241/222712632-b5ea04f7-d69e-45a9-8d37-fb92bdc9b904.png))](https://discord.gg/sirius)
 
 This is the written documentation for Dinis.
 
